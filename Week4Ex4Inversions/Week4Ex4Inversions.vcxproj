@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E90E2987-A054-43B8-8DA8-D9641B5248F6}</ProjectGuid>
+    <ProjectGuid>{E04EBD20-22EF-4BC6-9D73-BB4520223989}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Week2Ex3GCD</RootNamespace>
+    <RootNamespace>Week4Ex4Inversions</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp" />
+    <ClCompile Include="inversions.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

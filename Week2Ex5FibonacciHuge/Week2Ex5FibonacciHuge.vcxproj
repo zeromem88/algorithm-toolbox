@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E90E2987-A054-43B8-8DA8-D9641B5248F6}</ProjectGuid>
+    <ProjectGuid>{8B7A62A1-605B-4F27-9DFE-CEE07220AC50}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Week2Ex3GCD</RootNamespace>
+    <RootNamespace>Week2Ex5FibonacciHuge</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp" />
+    <ClCompile Include="fibonacci_huge.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

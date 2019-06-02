@@ -19,10 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E90E2987-A054-43B8-8DA8-D9641B5248F6}</ProjectGuid>
+    <ProjectGuid>{BBA2E955-A08F-4C78-B8AE-EBFFA7292DE8}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Week2Ex3GCD</RootNamespace>
+    <RootNamespace>Week4ClosestDistance</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>Week4Ex6ClosestDistance</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -142,7 +143,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp" />
+    <ClCompile Include="closest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

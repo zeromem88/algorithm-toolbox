@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp">
+    <ClCompile Include="fractional_knapsack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

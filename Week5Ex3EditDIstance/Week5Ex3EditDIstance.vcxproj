@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E90E2987-A054-43B8-8DA8-D9641B5248F6}</ProjectGuid>
+    <ProjectGuid>{93E64CB1-E11C-4237-AEA7-A4E53181EED6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Week2Ex3GCD</RootNamespace>
+    <RootNamespace>Week5Ex3EditDIstance</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -142,7 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp" />
+    <ClCompile Include="edit_distance.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

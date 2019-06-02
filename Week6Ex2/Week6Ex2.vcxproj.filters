@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gcd.cpp">
+    <ClCompile Include="partition3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
